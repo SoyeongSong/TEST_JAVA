@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapEx",
+            "request": "launch",
+            "mainClass": "HashMapEx"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMap",
+            "request": "launch",
+            "mainClass": "HashMap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Generic",
+            "request": "launch",
+            "mainClass": "Generic"
+        }
+    ]
+}
